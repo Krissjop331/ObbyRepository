@@ -1,0 +1,267 @@
+﻿# Game Russian translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-10-13 08:18\n"
+"PO-Revision-Date: 2023-10-13 08:18\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key:	020FEED54920394775F5B19869E72264
+#. SourceLocation:	/Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.Menutes.Text
+#: /Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.Menutes.Text
+msgctxt ",020FEED54920394775F5B19869E72264"
+msgid "00"
+msgstr ""
+
+#. Key:	029B216543EFD789380AADA1C2998407
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_756.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_756.Text
+msgctxt ",029B216543EFD789380AADA1C2998407"
+msgid "00"
+msgstr ""
+
+#. Key:	0CF98F2E4BA13079D5051D996BC4D4AB
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_0.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_0.Text
+msgctxt ",0CF98F2E4BA13079D5051D996BC4D4AB"
+msgid "Graphics"
+msgstr ""
+
+#. Key:	10DCE2AF41DF301E5096469A9B4A7CCC
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_99.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_99.Text
+msgctxt ",10DCE2AF41DF301E5096469A9B4A7CCC"
+msgid "Congratulations, "
+msgstr ""
+
+#. Key:	2227CBD64214518291DFFF92BF66163F
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_1380.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_1380.Text
+msgctxt ",2227CBD64214518291DFFF92BF66163F"
+msgid ":"
+msgstr ""
+
+#. Key:	2B4C7709499204F46D004AAB8B0F129E
+#. SourceLocation:	/Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.TextBlock_331.Text
+#: /Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.TextBlock_331.Text
+msgctxt ",2B4C7709499204F46D004AAB8B0F129E"
+msgid ":"
+msgstr ""
+
+#. Key:	2BDE886E41FA16EA5B9206BE2370F3E9
+#. SourceLocation:	/Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.Seconds.Text
+#: /Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.Seconds.Text
+msgctxt ",2BDE886E41FA16EA5B9206BE2370F3E9"
+msgid "00"
+msgstr ""
+
+#. Key:	4430B1C7423F816921FC4CB62DE51ABD
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_473.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_473.Text
+msgctxt ",4430B1C7423F816921FC4CB62DE51ABD"
+msgid "00"
+msgstr ""
+
+#. Key:	47F3EB3145E362A3D0C6649DDA75267D
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_371.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_371.Text
+msgctxt ",47F3EB3145E362A3D0C6649DDA75267D"
+msgid ":"
+msgstr ""
+
+#. Key:	57523F7F487D7D111260E3B7BDC06DF9
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_1498.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_1498.Text
+msgctxt ",57523F7F487D7D111260E3B7BDC06DF9"
+msgid "00"
+msgstr ""
+
+#. Key:	5890013740017EA14D6578989A5F45B5
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock.Text
+msgctxt ",5890013740017EA14D6578989A5F45B5"
+msgid "you have passed the level!"
+msgstr ""
+
+#. Key:	5E5AE6C1486F053B013213AAE4A38601
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_177.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_177.Text
+msgctxt ",5E5AE6C1486F053B013213AAE4A38601"
+msgid "Menu"
+msgstr ""
+
+#. Key:	6816EF5D4DCD6BB83AFFCAAF13C56AA9
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextPauseMenu.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextPauseMenu.Text
+msgctxt ",6816EF5D4DCD6BB83AFFCAAF13C56AA9"
+msgid "Pause"
+msgstr "Пауза"
+
+#. Key:	69ADBA3A4535B39FFC31B88AB94818AA
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_1233.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_1233.Text
+msgctxt ",69ADBA3A4535B39FFC31B88AB94818AA"
+msgid "00"
+msgstr ""
+
+#. Key:	6E19ACE14C43C935F79A919BF224E299
+#. SourceLocation:	/Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.apel.Text
+#: /Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.apel.Text
+msgctxt ",6E19ACE14C43C935F79A919BF224E299"
+msgid "0"
+msgstr ""
+
+#. Key:	783985B44A1D16BF54159683EFB042E8
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_4.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_4.Text
+msgctxt ",783985B44A1D16BF54159683EFB042E8"
+msgid "EN"
+msgstr ""
+
+#. Key:	788B4B3547F113DC3C725688836100ED
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_2.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_2.Text
+msgctxt ",788B4B3547F113DC3C725688836100ED"
+msgid "KZ"
+msgstr ""
+
+#. Key:	7A221357472ABAEB70292583EF8B7D17
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_3.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_3.Text
+msgctxt ",7A221357472ABAEB70292583EF8B7D17"
+msgid "RUS"
+msgstr ""
+
+#. Key:	7B61955445096D2261D6FCAC02D81010
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextEffects.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextEffects.Text
+msgctxt ",7B61955445096D2261D6FCAC02D81010"
+msgid "Effects volume"
+msgstr ""
+
+#. Key:	9CA92578401C42737648F582C46C5AFA
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:ExecuteUbergraph_UserAudio [Script Bytecode]
+#: /Game/Audio/UserAudio.UserAudio_C:ExecuteUbergraph_UserAudio [Script Bytecode]
+msgctxt ",9CA92578401C42737648F582C46C5AFA"
+msgid "Low"
+msgstr ""
+
+#. Key:	A10DAFA74A2F7FF4DF81F297C29F6DBC
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BT_MainMenu.BT_MainMenu_C:WidgetTree.TextBlock_204.Text
+#: /Game/MainMenuN/MainMenu/BT_MainMenu.BT_MainMenu_C:WidgetTree.TextBlock_204.Text
+msgctxt ",A10DAFA74A2F7FF4DF81F297C29F6DBC"
+msgid "00"
+msgstr ""
+
+#. Key:	AB388ED545FE33D8A86A3492970EF6E8
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_155.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_155.Text
+msgctxt ",AB388ED545FE33D8A86A3492970EF6E8"
+msgid "Exit game"
+msgstr ""
+
+#. Key:	ADB64D4241C92A77433968923CDB841C
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_119.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_119.Text
+msgctxt ",ADB64D4241C92A77433968923CDB841C"
+msgid "00"
+msgstr ""
+
+#. Key:	B934F64E4B90968EFDAC7F92E36BC71D
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:ExecuteUbergraph_UserAudio [Script Bytecode]
+#: /Game/Audio/UserAudio.UserAudio_C:ExecuteUbergraph_UserAudio [Script Bytecode]
+msgctxt ",B934F64E4B90968EFDAC7F92E36BC71D"
+msgid "High"
+msgstr ""
+
+#. Key:	C1F1D1634D4623314696A79F4CC42960
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_1132.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_1132.Text
+msgctxt ",C1F1D1634D4623314696A79F4CC42960"
+msgid "Record"
+msgstr ""
+
+#. Key:	C23B924F479B5EB9C1E5FC906D471026
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.Music.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.Music.Text
+msgctxt ",C23B924F479B5EB9C1E5FC906D471026"
+msgid "Music volume"
+msgstr ""
+
+#. Key:	C2C9D4D14A3E8C04C2A491BC92972C02
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_152.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock_152.Text
+msgctxt ",C2C9D4D14A3E8C04C2A491BC92972C02"
+msgid "Menu"
+msgstr ""
+
+#. Key:	C467CF344213A5FC32913D949FE43CE6
+#. SourceLocation:	/Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock.Text
+#: /Game/Audio/UserAudio.UserAudio_C:WidgetTree.TextBlock.Text
+msgctxt ",C467CF344213A5FC32913D949FE43CE6"
+msgid "Language"
+msgstr ""
+
+#. Key:	D65B8044402CCD34AB7181BC90C8D220
+#. SourceLocation:	/Game/MainMenuN/MainMenu/UserAudio_Menu.UserAudio_Menu_C:WidgetTree.TextEffects.Text
+#: /Game/MainMenuN/MainMenu/UserAudio_Menu.UserAudio_Menu_C:WidgetTree.TextEffects.Text
+msgctxt ",D65B8044402CCD34AB7181BC90C8D220"
+msgid "Effects volume"
+msgstr ""
+
+#. Key:	D675C34A426DA0FD607C3CBE42FD6632
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BT_MainMenu.BT_MainMenu_C:WidgetTree.TextBlock_260.Text
+#: /Game/MainMenuN/MainMenu/BT_MainMenu.BT_MainMenu_C:WidgetTree.TextBlock_260.Text
+msgctxt ",D675C34A426DA0FD607C3CBE42FD6632"
+msgid "Play"
+msgstr ""
+
+#. Key:	D6996F804833CA7AD0B169A42D593863
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BT_MainMenu.BT_MainMenu_C:WidgetTree.TextBlock_131.Text
+#: /Game/MainMenuN/MainMenu/BT_MainMenu.BT_MainMenu_C:WidgetTree.TextBlock_131.Text
+msgctxt ",D6996F804833CA7AD0B169A42D593863"
+msgid "Settings"
+msgstr ""
+
+#. Key:	D8AD7CAE4F3AB56A41481F965401F491
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BT_MainMenu.BT_MainMenu_C:WidgetTree.TextBlock_384.Text
+#: /Game/MainMenuN/MainMenu/BT_MainMenu.BT_MainMenu_C:WidgetTree.TextBlock_384.Text
+msgctxt ",D8AD7CAE4F3AB56A41481F965401F491"
+msgid "Exit game"
+msgstr ""
+
+#. Key:	F281CCAB4AAA46EE0CD352AA52882A93
+#. SourceLocation:	/Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_315.Text
+#: /Game/MainMenuN/MainMenu/BW_endGame.BW_endGame_C:WidgetTree.TextBlock_315.Text
+msgctxt ",F281CCAB4AAA46EE0CD352AA52882A93"
+msgid "Start over"
+msgstr ""
+
+#. Key:	FA21B79B400DFE66B4D45DB96FE59906
+#. SourceLocation:	/Game/MainMenuN/MainMenu/UserAudio_Menu.UserAudio_Menu_C:WidgetTree.TextPauseMenu.Text
+#: /Game/MainMenuN/MainMenu/UserAudio_Menu.UserAudio_Menu_C:WidgetTree.TextPauseMenu.Text
+msgctxt ",FA21B79B400DFE66B4D45DB96FE59906"
+msgid "Pause"
+msgstr "Пауза"
+
+#. Key:	FA9E3CBB426C8D492A9C6E8E826BB214
+#. SourceLocation:	/Game/MainMenuN/MainMenu/UserAudio_Menu.UserAudio_Menu_C:WidgetTree.Music.Text
+#: /Game/MainMenuN/MainMenu/UserAudio_Menu.UserAudio_Menu_C:WidgetTree.Music.Text
+msgctxt ",FA9E3CBB426C8D492A9C6E8E826BB214"
+msgid "Music volume"
+msgstr ""
+
+#. Key:	FC7791F14353F7916A364086228629E2
+#. SourceLocation:	/Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.TextBlock_111.Text
+#: /Game/BaiVit/Coin/BP_UI_Coin.BP_UI_Coin_C:WidgetTree.TextBlock_111.Text
+msgctxt ",FC7791F14353F7916A364086228629E2"
+msgid "ESC "
+msgstr ""
+
